@@ -1,4 +1,4 @@
-const Compare = () => {
+const ComparePage = () => {
   return(
     <div>
       <h2>Compare</h2>
@@ -6,4 +6,4 @@ const Compare = () => {
   )
 }
 
-export default Compare;
+export default ComparePage;
