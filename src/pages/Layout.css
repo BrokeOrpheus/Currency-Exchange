@@ -1,0 +1,21 @@
+nav, footer {
+  background: rgba(0, 0, 0, 95%);
+}
+
+nav a, footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.highlight {
+  opacity: .5;
+}
+
+.highlight:hover {
+  opacity: 1;
+  color: white;
+}
+
+#footer {
+  z-index: 10;
+}

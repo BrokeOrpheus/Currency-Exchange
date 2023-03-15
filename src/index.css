@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  background-color: #191919;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -10,4 +10,20 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h2, p, th, td {
+  color: white;
+}
+
+#outputRate {
+  background-color: #bbb;
+}
+
+input {
+  text-align: center;
+}
+
+.filler {
+  min-height: 20vh;
 }

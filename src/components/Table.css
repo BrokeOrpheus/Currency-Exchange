@@ -1,3 +1,15 @@
 th, td {
   width: 50%;
 }
+
+table {
+  background-color: #444;
+}
+
+table tr:nth-of-type(odd) {
+  background-color: #333;
+}
+
+.textColor {
+  color: #98A8F8;
+}
