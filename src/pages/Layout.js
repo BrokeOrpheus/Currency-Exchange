@@ -14,7 +14,7 @@ const Layout = () => {
           <p className='fs-3 m-0 text-center'>X-Change</p>
         </div>
         <div className='col text-end'>
-          <Link to='/pair' className='fs-4 highlight me-3'>Direct</Link>
+          <Link to='/convert' className='fs-4 highlight me-3'>Convert</Link>
         </div>
       </nav>
 

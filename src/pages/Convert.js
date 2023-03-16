@@ -2,10 +2,10 @@ import React from 'react';
 import { checkStatus, json } from '../utils';
 import { Dropdown } from '../components/Table.js';
 import { FaChevronRight } from 'react-icons/fa';
-import './Pair.css';
+import './Convert.css';
 import { Chart } from 'chart.js/auto';
 
-class Pair extends React.Component {
+class Convert extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -180,4 +180,4 @@ class Pair extends React.Component {
   }
 }
 
-export default Pair;
+export default Convert;
