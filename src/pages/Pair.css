@@ -5,3 +5,11 @@
 #chevron {
   min-height: 5vh;
 }
+
+@media (min-width: 768px) {
+
+  #canvasContainer {
+    height: 460px;
+  }
+
+}
